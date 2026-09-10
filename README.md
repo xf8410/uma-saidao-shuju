@@ -54,6 +54,7 @@
 
 | [scan/07-run-at-full-speed.md](07-run-at-full-speed.md) | 全力冲刺（全開スパート）状态：run_at_full_speed_random、杏目固有两段式全行、ability 48 AddExPower、两段固有链式机制 |
 | [scan/08-race-schedule-and-course-params.md](08-race-schedule-and-course-params.md) | 赛程表三层链路（race/race_instance/single_mode_program）+ 攻略站 course_param 交叉验证（京都1600 完整分段） |
+| [scan/09-utools-course-geometry.md](09-utools-course-geometry.md) | U-tools 140 赛道几何全量（段构成/阶段区间/keep 区间/补正/317 比赛索引），raw JSON 佐证；解析脚本 tools/parse_utools_courses.py |
 
 
 </details>
